@@ -8,8 +8,8 @@
   👀 我对Python\Golang\C这几门编程语言感兴趣
 - 🌱 I’m currently learning C\Python\Golang  
   🌱 我目前正在学习C\Python\Golang
-- 💞️ I’m looking to collaborate on Beijing  
-  💞️ 我希望能够在 *北京* 实习 or 工作
+- 💞️ I’m looking to collaborate on Wuhan  
+  💞️ 我希望能够在 *武汉* 实习 or 工作。（当然如果是其他都行，我并不在意地域
 - 💻 I want to be a back-end developer  
   💻 我想成为一名后端开发
 
