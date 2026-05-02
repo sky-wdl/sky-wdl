@@ -8,10 +8,8 @@
   👀 我对Python\Golang\C这几门编程语言感兴趣
 - 🌱 I’m currently learning C\Python\Golang  
   🌱 我目前正在学习C\Python\Golang
-- 💞️ I’m looking to collaborate on Wuhan  
-  💞️ 我希望能够在 *武汉* 实习 or 工作。（当然如果是其他都行，我并不在意地域
-- 💻 I want to be a back-end developer  
-  💻 我想成为一名后端开发
+- 💻 I want to be a back-end developer,but....
+  💻 我想成为一名后端开发，但是...
 
 <!---
 sky-wdl/sky-wdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
